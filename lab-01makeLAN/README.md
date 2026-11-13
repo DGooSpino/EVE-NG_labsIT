@@ -1,10 +1,10 @@
 # Lab 01: Enrutamiento Estático Multicapa en Arquitectura Jerárquica (Core y Distribución)
 
-Este laboratorio simula una red empresarial simple de múltiples pisos utilizando una arquitectura de red jerárquica de dos capas (Núcleo/Core y Distribución). El objetivo principal es interconectar las dos redes locales (LAN) separadas físicamente (`Piso 1` y `Piso 2`) a través de un troncal redundante y rutas estáticas IPv4 configuradas en un entorno de simulación **EVE-NG**.
+Este laboratorio simula una red empresarial simple de múltiples pisos utilizando una arquitectura de red jerárquica de dos capas (Núcleo/Core y Distribución). El objetivo principal es interconectar las dos redes locales (LAN) separadas físicamente (`Piso 1` y `Piso 2`) a través de un troncal redundante y rutas estáticas IPv4 configuradas en un entorno de simulación.
 
 ## Topología de Red
 La topología implementa enlaces redundantes entre los routers del Core (`Core1`, `Core2`) y los routers de distribución (`Dist1`, `Dist2`) para asegurar la tolerancia a fallos en la capa de transporte.
-[/lab-01makeLAN/01local.png]
+[/lab-01makeLAN/assets/1_Topology.png]
 ---
 ## 🖧 Tabla de Direccionamiento IP
 
