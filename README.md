@@ -20,5 +20,5 @@ Cada laboratorio sigue una estructura modular para facilitar su reproducción y 
 | **03** |(./lab03-VLans&NAt) | Topologia de la LAN
 ---
 ## 🛠️ Herramientas y Entorno Utilizado
-* **Emulación de Red:** EVE-NG Community Edition (Bare-Metal)
+* **Emulación de Red:** EVE-NG Community Edition (Bare-Metal)& CiscoPacketTracert
 * **Dispositivos Virtuales:** Cisco IOS / IOU (Routers y Switches L2/L3), Alpine Linux (Servicios ligeros de red)
