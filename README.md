@@ -17,6 +17,7 @@ Cada laboratorio sigue una estructura modular para facilitar su reproducción y 
 | :--- 
 | **01** |(./lab-01makeLAN) | Switching Multicapa (Core / Distribución), Enrutamiento base | 
 | **02** |(./lab02-ServerDHCP/) | Servidor DHCP (`dnsmasq` en Alpine Linux)
+| **03** |(./lab03-VLans&NAt) | Topologia de la LAN
 ---
 ## 🛠️ Herramientas y Entorno Utilizado
 * **Emulación de Red:** EVE-NG Community Edition (Bare-Metal)
